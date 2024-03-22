@@ -1,0 +1,89 @@
+ House.Price_thousand ,Beds,Baths, Area_thousand ,Address,Parking,Yard,Church,Year.built
+39.5,2,1,1.035,"5 Panther Rd,Conway, AR 72032",2,No,3.9,67
+50,3,1,0.9,"18 Kellee Rd, Conway, AR 72032",0,No,2.7,16
+55,3,2,0.8,"315 Olivier St, Conway, AR 72034",0,Yes,0.3,59
+55,2,1,1.587,"2061 Keathley Dr, Conway, AR 72032",0,No,0.2,50
+69,3,1,0.976,"2118 Caldwell St, Conway, AR 72034",1,No,0.4,53
+69.9,3,2,1.682,"10 Valley Rd,Conway, AR 72032",0,Yes,1.1,37
+79.9,3,2,1.248,"322 Mildred St,Conway, AR 72034",1,No,1.9,40
+85,3,2,1.167,"18 Azalea Loop, Conway, AR 72032",1,No,2.1,37
+90,3,2,1.663,"6061 Highway 319 W, Conway, AR 72034",1,No,3.3,50
+95.5,4,2,1.303,"130 Eve Ln, Conway, AR 72034",0,Yes,1.3,24
+99.9,2,1,1.266,"25 Fred Ln, Conway, AR 72032",1,Yes,1.1,26
+102.5,3,2,1.408,"523 3rd St, Conway, AR 72032",1,Yes,0.4,45
+103,3,1,1.292,"44 Brier Springs Dr,Conway, AR 72034",2,Yes,1.1,29
+107,3,2,1.11,"1385 Arapaho Trl,Conway, AR 72034",2,Yes,0.8,17
+108,3,2,1.366,"2450 Landover Trl,Conway, AR 72032",2,Yes,0.7,16
+111.113,3,2,1.434,"970 Crosspoint Rd,Conway, AR 72034",2,No,1.1,21
+112.5,3,2,1.201,"1440 Huebner St,Conway, AR 72032",2,Yes,2.3,11
+117,3,2,1.226,"1960 Sterling Dr,Conway, AR 72034",2,Yes,1,20
+120,3,2,1.226,"11 Cottontail Dr,Conway, AR 72032",0,No,2.3,30
+124.5,3,2,1.234,"1880 Arden Ln,Conway, AR 72034",2,Yes,0.7,10
+126,3,2,1.949,"1311 Clifton St,Conway, AR 72034",2,Yes,0.4,55
+127.9,3,2,1.518,"1906 Arrowhead Ln, Conway, AR 72032",1,Yes,0.8,26
+128,3,2,1.469,"4 Nick Ln, Conway, AR 72032",1,Yes,0.3,23
+129.5,3,2,1.952,"2214 West St,Conway, AR 72032",2,Yes,2.3,41
+131.5,2,1,1.369,"1335 Marrisa St, Conway, AR 72032",2,Yes,0.5,10
+134.5,3,3,1.36,"327 Locust St,Conway, AR 72034",2,Yes,0.3,12
+135,3,2,1.681,"1408 Donaghey Ave, Conway, AR 72034",2,No,0.2,11
+139.9,3,2,1.9,"2006 Hutto St,Conway, AR 72032",2,Yes,0.5,34
+145.5,4,2,2.066,"449 Reedy Rd, Conway, AR 72034",0,No,0.9,85
+147.565,3,2,1.435,"1725 Jasmine Ln, Conway, AR 72034",2,Yes,2.1,12
+149.9,5,4,3.622,"367 Highway 365, Conway, AR 72032",2,No,0.6,48
+152.9,3,2,1.6,"2845 York Ln,Conway, AR 72034",2,Yes,1.5,11
+154.9,3,2,1.996,"313 Salem Rd, Conway, AR 72034",2,No,1,28
+156.5,3,2,2.7,"140 Locust St, Conway, AR 72034",2,Yes,0.3,26
+157,2,3,1.724,"1630 S Salem Rd,Conway, AR 72034",2,No,2.2,14
+159,3,2,1.62,"102 Palarm Creek Rd,Conway, AR 72032",2,Yes,2.3,10
+159.9,3,2,1.839,"7 Rickey Dr,Conway, AR 72032",0,Yes,0.5,31
+160,4,2,2.358,"5 Thomas Ln, Conway, AR 72032",0,Yes,4.3,27
+163,3,2,1.874,"4 Joshua Cir, Conway, AR 72032",2,Yes,2,10
+167,4,2,1.642,"3805 Tyler St, Conway, AR 72034",2,Yes,0.8,11
+174.9,4,3,2.45,"2 Mark Pl,Conway, AR 72034",2,Yes,0.5,49
+174.9,3,2,1.715,"1690 Gardenia,Conway, AR 72034",2,Yes,1.8,10
+174.9,4,3,2.16," 43 Winding Branch Ln, Conway, AR 72032",1,No,4,31
+179.5,3,2,1.727,"2510 Zoysia Ln,Conway, AR 72034",2,Yes,1.8,10
+179.9,4,2,1.972,"1310 Edge valley Dr North, Conway, AR 72032",2,Yes,0.4,9
+182.9,4,2,1.834,"1825 Penny St, Conway, AR 72034",2,Yes,1,8
+183.5,3,2,1.909,"2640 Apple Blossom Ln,Conway, AR 72034",2,No,2,12
+189.9,4,2,2.81,"2033 Robinson Ave, Conway, AR 72034",0,Yes,0.4,130
+189.9,5,3,2.7,"21 Beaverfork Hts, Conway, AR 72032",4,Yes,3.6,51
+199,3,3.5,2.981,"293 Katie Ln, Conway, AR 72034",1,No,1.5,43
+199.9,4,3,2.37,"912 Heather Cir,Conway, AR 72034",2,No,0.4,28
+209.9,3,2,2.181,"4630 Renfrow St,Conway, AR 72034",2,Yes,2,15
+225,4,3,2.713,"3100 Dogwood Trl, Conway,AR 72034",2,No,0.8,28
+226.2,3,2,1.628,"2730 Stonebrook Cv, Conway, AR 72034",1,No,1,0
+229.5,3,2,2.58,"2035 Prince St, Conway, AR 72034",2,Yes,0.2,64
+229.625,2,2,1.67,"2720 Stonebrook Cv, Conway, AR 72034",1,No,1,1
+229.9,4,3,2.776,"304 Country Club Rd, Conway, AR 72034",2,Yes,1.3,28
+235,4,3,2.364,"1025 Mitchell St, Conway, AR 72034",2,No,0.3,99
+239.9,4,3,2.589,"2540 Tj Dr, Conway, AR 72034",2,No,1,17
+240,4,2,2.173,"1320 Tony Cir, Conway, AR 72034",2,Yes,1.2,13
+245,3,2,1.356,"2450 Apple Blossom Ln, Conway, AR 72034",2,Yes,1.9,12
+249.9,2,3,1.368,"855 Reynolds Ave,Conway, AR 72032",2,No,1,4
+253.9,4,2.5,2.732,"1610 Amelia Dr,Conway, AR 72034",2,Yes,0.7,21
+259,3,2,2.459,"2535 Forest Vw,Conway, AR 72034",2,No,1.9,12
+267.5,4,4,2.91,"1020 Jaci Ln, Conway, AR 72034",3,No,1.1,25
+284.9,4,4,3.014,"455 Wellesley Dr, Conway, AR 72034",3,Yes,0.8,16
+285,4,3,2.894,"455 Hannah Dr, Conway, AR 72034",2,Yes,1.1,20
+290,5,3,3.191,"5 Spradlin Rd,Conway, AR 72032",3,No,9.5,38
+299.5,4,4,3.515,"3 Crown Pt, Conway, AR 72034",2,Yes,0.4,30
+300,4,3,2.682,"1045 Applewood Dr, Conway, AR 72034",3,Yes,0.09,9
+309.9,4,3,2.576,"122 Stanford Rd, Conway, AR 72032",6,Yes,1.4,40
+315,4,3,2.643,"1800 Pecan Creek Dr, Conway, AR 72034",2,No,1.9,0
+320,3,4,3.106,"1305 Tony Cir, Conway, AR 72034",2,Yes,1.2,15
+338,4,3,2.968,"1425 Centennial Club Dr, Conway, AR 72034",4,Yes,0.5,12
+350,4,3.5,3.228,"3730 Newcastle Dr,Conway, AR 72034",3,Yes,1.1,9
+379.981,4,4,3.381,"4015 Newcastle Dr, Conway, AR 72034",2,Yes,0.9,6
+389.5,4,4,3.398,"765 Bristol Ln, Conway, AR 72034",2,Yes,1.3,9
+399,5,5,4.378,"34 Shady Valley Dr, Conway, AR 72034",3,Yes,1.4,29
+399,3,4,3.155,"5230 Burnt Pne, Conway, AR 72034",2,No,1.5,5
+425,5,5,3.494,"4865 Quarry Dr, Conway, AR 72034",3,Yes,0.9,13
+429.9,4,4,2.383,"1915 Sanders St, Conway, AR 72032",2,No,0.7,3
+439.9,4,5,3.577,"600 Bristol Ln, Conway, AR 72034",3,Yes,1.6,7
+449.9,5,4,4.303,"5695 Spencer Lake Dr, Conway, AR 72034",3,Yes,2.5,2
+450,4,4,4.578,"1830 Stanley Russ Rd, Conway, AR 72034",3,No,1.2,16
+455,4,3.5,3.421,"975 Chapel Hill Dr,Conway, AR 72034",3,Yes,0.3,3
+610,7,5,6.029,"515 Audubon Pl, Conway, AR 72034",3,Yes,0.3,11
+725,5,4,4.736,"620 Bristol Ln,Conway, AR 72034",3,Yes,1.5,9
+1800,3,2,10,"42 Southshore Ln, Conway, AR 72032",3,Yes,2.1,6
